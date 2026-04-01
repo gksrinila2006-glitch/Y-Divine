@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 400 350" xmlns="http://www.w3.org/2000/svg">
+  <!-- Heart outline -->
+  <path d="M200 320 C 80 250, 40 200, 40 140 C 40 100, 70 70, 110 70 C 135 70, 160 85, 200 115 C 240 85, 265 70, 290 70 C 330 70, 360 100, 360 140 C 360 200, 320 250, 200 320 Z" 
+        fill="none" 
+        stroke="#c41e3a" 
+        stroke-width="20" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  
+  <!-- Brush stroke effect for left side -->
+  <path d="M 70 120 Q 50 90, 60 60" 
+        fill="none" 
+        stroke="#c41e3a" 
+        stroke-width="18" 
+        stroke-linecap="round" 
+        opacity="0.8"/>
+  
+  <!-- Brush stroke effect for right side -->
+  <path d="M 330 120 Q 350 90, 340 60" 
+        fill="none" 
+        stroke="#c41e3a" 
+        stroke-width="18" 
+        stroke-linecap="round" 
+        opacity="0.8"/>
+</svg>
